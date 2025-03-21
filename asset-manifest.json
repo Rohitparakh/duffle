@@ -1,12 +1,14 @@
 {
   "files": {
-    "main.css": "/duffle/static/css/main.dc81f26f.css",
-    "main.js": "/duffle/static/js/main.d840fd3d.js",
+    "main.css": "/duffle/static/css/main.7f72897e.css",
+    "main.js": "/duffle/static/js/main.e86dd623.js",
     "static/js/453.cad18975.chunk.js": "/duffle/static/js/453.cad18975.chunk.js",
     "static/media/phoneUI.png": "/duffle/static/media/phoneUI.753440213af7d2bb835b.png",
     "static/media/desktop.png": "/duffle/static/media/desktop.34887da0242b56e55e7e.png",
     "static/media/twitterCardBlur.png": "/duffle/static/media/twitterCardBlur.6d2302e7c9c8682b5d72.png",
     "static/media/iphone-15.png": "/duffle/static/media/iphone-15.d8bdf435e9d4245abd9d.png",
+    "static/media/fintech_mobile.png": "/duffle/static/media/fintech_mobile.cbdccf75e3e3ee4b205c.png",
+    "static/media/footerRobo.png": "/duffle/static/media/footerRobo.ed273d249ed83922307d.png",
     "static/media/book.png": "/duffle/static/media/book.f14041c04ed3d736bf8e.png",
     "static/media/twitterCard.png": "/duffle/static/media/twitterCard.da9ec86cdb59c0063c7b.png",
     "static/media/robo2.png": "/duffle/static/media/robo2.1a43ded73dac5ff73e1d.png",
@@ -15,7 +17,6 @@
     "static/media/robot.png": "/duffle/static/media/robot.e0b9e9e0d58bdc6b45d5.png",
     "static/media/industryBg.png": "/duffle/static/media/industryBg.771c2c843cc44090de17.png",
     "static/media/animeboy.png": "/duffle/static/media/animeboy.d764455b25123ae5df60.png",
-    "static/media/footerRobo.png": "/duffle/static/media/footerRobo.9a5876a475341a299933.png",
     "static/media/globe.png": "/duffle/static/media/globe.e326d5ed37a09df69fc4.png",
     "static/media/avatars.png": "/duffle/static/media/avatars.bf41dcc3ed57f6ab5901.png",
     "static/media/bluesign.png": "/duffle/static/media/bluesign.348aa431b3834145f96e.png",
@@ -31,12 +32,12 @@
     "static/media/coins.png": "/duffle/static/media/coins.3a13263a545715438277.png",
     "static/media/rocket_black.png": "/duffle/static/media/rocket_black.cf698d6ae0ca03a8cb64.png",
     "index.html": "/duffle/index.html",
-    "main.dc81f26f.css.map": "/duffle/static/css/main.dc81f26f.css.map",
-    "main.d840fd3d.js.map": "/duffle/static/js/main.d840fd3d.js.map",
+    "main.7f72897e.css.map": "/duffle/static/css/main.7f72897e.css.map",
+    "main.e86dd623.js.map": "/duffle/static/js/main.e86dd623.js.map",
     "453.cad18975.chunk.js.map": "/duffle/static/js/453.cad18975.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.dc81f26f.css",
-    "static/js/main.d840fd3d.js"
+    "static/css/main.7f72897e.css",
+    "static/js/main.e86dd623.js"
   ]
 }
