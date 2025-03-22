@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/duffle/static/css/main.7f72897e.css",
-    "main.js": "/duffle/static/js/main.e86dd623.js",
+    "main.css": "/duffle/static/css/main.8dfd6c40.css",
+    "main.js": "/duffle/static/js/main.f32e4133.js",
     "static/js/453.cad18975.chunk.js": "/duffle/static/js/453.cad18975.chunk.js",
     "static/media/phoneUI.png": "/duffle/static/media/phoneUI.753440213af7d2bb835b.png",
     "static/media/desktop.png": "/duffle/static/media/desktop.34887da0242b56e55e7e.png",
@@ -29,15 +29,17 @@
     "static/media/orangesign.png": "/duffle/static/media/orangesign.78d8d67f92081591bd57.png",
     "static/media/hand.png": "/duffle/static/media/hand.b07497d0d53cf84d4dc9.png",
     "static/media/bigger_than_crypto.png": "/duffle/static/media/bigger_than_crypto.6ffb32049f6aafee88b9.png",
+    "static/media/rightArrow.png": "/duffle/static/media/rightArrow.552c3cabaf3e412169ac.png",
+    "static/media/leftArrow.png": "/duffle/static/media/leftArrow.75cf19bfa2fa9dd80e33.png",
     "static/media/coins.png": "/duffle/static/media/coins.3a13263a545715438277.png",
     "static/media/rocket_black.png": "/duffle/static/media/rocket_black.cf698d6ae0ca03a8cb64.png",
     "index.html": "/duffle/index.html",
-    "main.7f72897e.css.map": "/duffle/static/css/main.7f72897e.css.map",
-    "main.e86dd623.js.map": "/duffle/static/js/main.e86dd623.js.map",
+    "main.8dfd6c40.css.map": "/duffle/static/css/main.8dfd6c40.css.map",
+    "main.f32e4133.js.map": "/duffle/static/js/main.f32e4133.js.map",
     "453.cad18975.chunk.js.map": "/duffle/static/js/453.cad18975.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.7f72897e.css",
-    "static/js/main.e86dd623.js"
+    "static/css/main.8dfd6c40.css",
+    "static/js/main.f32e4133.js"
   ]
 }
