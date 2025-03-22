@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/duffle/static/css/main.12ab44af.css",
-    "main.js": "/duffle/static/js/main.fe1c64e1.js",
+    "main.css": "/duffle/static/css/main.cbfd444c.css",
+    "main.js": "/duffle/static/js/main.6368136b.js",
     "static/js/453.cad18975.chunk.js": "/duffle/static/js/453.cad18975.chunk.js",
     "static/media/phoneUI.png": "/duffle/static/media/phoneUI.753440213af7d2bb835b.png",
     "static/media/robot.png": "/duffle/static/media/robot.a99590549e576c25b921.png",
@@ -19,11 +19,11 @@
     "static/media/animeboy.png": "/duffle/static/media/animeboy.d764455b25123ae5df60.png",
     "static/media/globe.png": "/duffle/static/media/globe.e326d5ed37a09df69fc4.png",
     "static/media/avatars.png": "/duffle/static/media/avatars.bf41dcc3ed57f6ab5901.png",
+    "static/media/fintech_wallet.png": "/duffle/static/media/fintech_wallet.3d59a51e8b9e56620fcb.png",
     "static/media/bluesign.png": "/duffle/static/media/bluesign.348aa431b3834145f96e.png",
     "static/media/duffleLogo.png": "/duffle/static/media/duffleLogo.8f75d19a4d87a3338887.png",
     "static/media/culture.png": "/duffle/static/media/culture.3c27d6dae11aabf12145.png",
     "static/media/Layer_1.png": "/duffle/static/media/Layer_1.44afac3a596a629df93d.png",
-    "static/media/fintech_wallet.png": "/duffle/static/media/fintech_wallet.4d7ea9815577cb2ae6ae.png",
     "static/media/earth.png": "/duffle/static/media/earth.e5a87e820f32e04a7a2f.png",
     "static/media/bookTop.png": "/duffle/static/media/bookTop.98917410016277549bd9.png",
     "static/media/orangesign.png": "/duffle/static/media/orangesign.78d8d67f92081591bd57.png",
@@ -35,12 +35,12 @@
     "static/media/lifestyleLine.png": "/duffle/static/media/lifestyleLine.f813d09b254871fc24f3.png",
     "static/media/rocket_black.png": "/duffle/static/media/rocket_black.cf698d6ae0ca03a8cb64.png",
     "index.html": "/duffle/index.html",
-    "main.12ab44af.css.map": "/duffle/static/css/main.12ab44af.css.map",
-    "main.fe1c64e1.js.map": "/duffle/static/js/main.fe1c64e1.js.map",
+    "main.cbfd444c.css.map": "/duffle/static/css/main.cbfd444c.css.map",
+    "main.6368136b.js.map": "/duffle/static/js/main.6368136b.js.map",
     "453.cad18975.chunk.js.map": "/duffle/static/js/453.cad18975.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.12ab44af.css",
-    "static/js/main.fe1c64e1.js"
+    "static/css/main.cbfd444c.css",
+    "static/js/main.6368136b.js"
   ]
 }
